@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding+"UTF-8"?>
+<manifest>
+
+	<!-- Remotes -->
+	<remote name="github" fetch="https://github.com" />
+
+	<!-- Blacklist -->
+
+	<!-- PXA1908 -->
+	<project name="Matt07211/android_kernel_samsung_xcover3lte"	path="kernel/samsung/xcover3lte"	remote="github" revision="master" />
+	<!--<project name="Matt07211/android_hardware_samsung_xcover3lte"	path="hardware/samsung/xcover3lte"	remote="github" revision="master" /> -->
+	<!--<project name="Matt07211/android_vendor_samsung_xcover3lte"	path="vendor/samsung/xcover3lte"	remote="github" revision="master" /> -->
