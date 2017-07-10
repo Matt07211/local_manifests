@@ -10,4 +10,9 @@
 	<project name="Matt07211/android_kernel_samsung_xcover3lte"	path="kernel/samsung/xcover3lte"	remote="github" revision="master" />
 	<project name="Matt07211/android_vendor_samsung_xcover3lte"	path="vendor/samsung/xcover3lte"	remote="github" revision="master" />
 	<project name="Matt07211/android_hardware_marvell"	path="hardware/marvell"	remote="github" revision="master" />
+	<project name="AKuHAK/pxa-mkbootimg" path="device/samsung/xcover3lte/tools/" remote="github" revision="master" />
+
+	<!-- Toolchains -->
+	<project name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.8" path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.8" remote="aosp" revision="master" />
+
 </manifest>
